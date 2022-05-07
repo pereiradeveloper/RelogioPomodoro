@@ -6,5 +6,5 @@
 
 
 <p align="center">
-   <img width ="469" height"300" src="lib/pomodoro.mp4">
+   <img width ="469" height"300" src="lib/pomodoro.gif>
 </p>
